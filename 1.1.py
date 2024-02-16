@@ -12,6 +12,6 @@ def bin_search(data,elem):
 			low = middle+1
 	return -1
 
-calendar=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
-our_day=11
-print(bin_search(calendar,our_day))
+massive=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+our_number=11
+print(bin_search(massive,our_number))
